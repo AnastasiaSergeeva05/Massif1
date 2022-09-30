@@ -6,7 +6,7 @@ import java.util.Arrays;
 public class Main {
     public static void main(String[] args) {
 
-        //System.out.println("Домашнее задание 1.1");
+        //System.out.println("Домашнее задание 1.1" );
 
         int[] a = new int[3];
         a[0] = 1;
